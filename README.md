@@ -1,17 +1,16 @@
-# flutter_movies
+# Simple Todos
+Приложение на Flutter для управления задачами.
 
-A new Flutter project.
+Используемый стэк:
+- Dart
+- Flutter
+- json_serializable
 
-## Getting Started
+Приложение было создано в целях изучения возможностей Flutter.
+Архитектуре не уделялось особого внимания.
 
-This project is a starting point for a Flutter application.
+## Контакты (пишите по любым вопросам)
 
-A few resources to get you started if this is your first Flutter project:
+Я доступен в Telegram `+79185829099`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# simple_todos" 
+Или по почте `kazbekbet@gmail.com`
