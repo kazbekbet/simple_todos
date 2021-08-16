@@ -1,0 +1,1 @@
+enum TabTypes { ACTIVE, CLOSED }
